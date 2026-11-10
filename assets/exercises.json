@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Bench Press",
+    "muscles": "Chest, Triceps",
+    "equipment": "Straight Barbell",
+    "description": "pushing the barbell up and down while laying down",
+    "video_url": "https://www.youtube.com/shorts/hWbUlkb5Ms4"
+  },
+  {
+    "id": 16,
+    "name": "Biceps Curl",
+    "muscles": "Biceps",
+    "equipment": "",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/ez3YoWf62Eg"
+  },
+  {
+    "id": 14,
+    "name": "Diamond Pushups ",
+    "muscles": "Triceps",
+    "equipment": "The Floor",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/PPTj-MW2tcs"
+  },
+  {
+    "id": 12,
+    "name": "Dumbell Calf Raises",
+    "muscles": "Calf",
+    "equipment": "Dumbells",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/ADITZCcUyVo"
+  },
+  {
+    "id": 8,
+    "name": "Dumbell Press",
+    "muscles": "Chest ",
+    "equipment": "Dumbells",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/rk8YayRoTRQ"
+  },
+  {
+    "id": 10,
+    "name": "Hammer Curl",
+    "muscles": "Biceps",
+    "equipment": "Dumbells",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/VuEclXR7sZY"
+  },
+  {
+    "id": 11,
+    "name": "Hamstring Curl",
+    "muscles": "Hamstrings",
+    "equipment": "Home Machine",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/lGNeJsdqJwg"
+  },
+  {
+    "id": 7,
+    "name": "Incline Banch Press",
+    "muscles": "Chest, Triceps",
+    "equipment": "Barbell",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/98HWfiRonkE"
+  },
+  {
+    "id": 4,
+    "name": "Leg extention",
+    "muscles": "Front Leg",
+    "equipment": "Home Machine",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/uM86QE59Tgc"
+  },
+  {
+    "id": 9,
+    "name": "Preacher Curl",
+    "muscles": "Biceps",
+    "equipment": "EZ Barbell",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/P13VQDU1q9c"
+  },
+  {
+    "id": 15,
+    "name": "Pull Ups",
+    "muscles": "back ",
+    "equipment": "Home Machine",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/kLmFCtNDut4"
+  },
+  {
+    "id": 13,
+    "name": "Push Ups ",
+    "muscles": "Chest, Triceps",
+    "equipment": "The Floor",
+    "description": "",
+    "video_url": "https://www.youtube.com/shorts/pKZ-lkKKMws"
+  },
+  {
+    "id": 3,
+    "name": "Shoulder Press",
+    "muscles": "Front, Middle Shoulder",
+    "equipment": "EZ Barbell",
+    "description": "seated shoulder pressing",
+    "video_url": "https://www.youtube.com/watch?v=-MwL_9KOv7U"
+  },
+  {
+    "id": 2,
+    "name": "Skull Crusher",
+    "muscles": "Triceps",
+    "equipment": "EZ Barbell",
+    "description": "laying down with the barbell behind your head ",
+    "video_url": "https://www.youtube.com/shorts/K3mFeNz4e3w"
+  },
+  {
+    "id": 6,
+    "name": "seated row (lower)",
+    "muscles": "lats",
+    "equipment": "Home Machine",
+    "description": "Tight Grip",
+    "video_url": "https://www.youtube.com/watch?v=w49UGytisik"
+  },
+  {
+    "id": 5,
+    "name": "seated row (upper)",
+    "muscles": "upper back, Lats",
+    "equipment": "Home Machine",
+    "description": "wide grip",
+    "video_url": "https://www.youtube.com/watch?v=w49UGytisik"
+  }
+]
